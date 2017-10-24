@@ -1,18 +1,23 @@
 #wrapper
 {
-    max-width: 451px;
-    height: 454px;
-    position: relative;
-    margin: 10px auto;
-    background: #453a36;
-    border: solid 5px #453a36;
+  max-width: 451px;
+  height: 454px;
+  position: relative;
+  margin: 10px auto;
+  background: #453a36;
 }
 
-.white {
+.white
+{
+  background: #ffffff;
+  max-width: 100px;
+  height: 200px;
 }
 
 #white_med_1 {
+  border: solid 20px #000000;
 }
 
 #white_med_2 {
+  border: solid 2px #000000;
 }
